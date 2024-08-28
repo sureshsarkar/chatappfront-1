@@ -7,7 +7,7 @@ const UserList = () => {
           
           <div className="d-flex py-2 border-b-2">
               <div className="userImg">
-                <img src="../src/assets/images/home-DlQHEEVw.jpg" alt="Logo" />
+                <img src="/assets/images/home-DlQHEEVw.jpg" alt="Logo" />
               </div>
               <div className="p-2 fullNameText">Suresh Sarkar</div>
           </div>
