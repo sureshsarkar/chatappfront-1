@@ -42,7 +42,7 @@ margin-top: 50px;
 .homePage{
     display: flex;
     height: 100vh;
-    background-image: url('./assets/images/home.jpg');
+    background-image: url('https://chatappfront-sigma.vercel.app/assets/images/home.jpg');
 }
 .boxDiv{
     display: flex;
